@@ -11,6 +11,8 @@ Sensor - Sensor and Actuators
 ## Thing+ Gateway and Thing+ Cloud
 Architecture Picture will be added.
 
+## Integration Guide for open Hardware
+[Integration Guide](http://support.thingplus.net/)
 
 ```
 Copyright (c) 2015, Daliworks. All rights reserved.
